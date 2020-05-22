@@ -1,5 +1,7 @@
 # korNum
 
+[![Python](https://img.shields.io/pypi/pyversions/nikl.svg?style=plastic)](https://badge.fury.io/py/korNum)
+[![PyPI](https://badge.fury.io/py/nikl.svg)](https://badge.fury.io/py/korNum)  
 Change **[Korean number text -> Arabic number]** or<br>
 **[Arabic number -> Korean number text]**
 
